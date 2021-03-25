@@ -1,0 +1,28 @@
+.card{
+    width: 18rem;
+    background-color:darkgrey;
+}
+header{
+    background-color:dimgray;
+}
+body{
+    background-color: darkslategrey;
+}
+.jumbotron{
+    background-color: lightblue;
+}
+blockquote{
+    color: chocolate;
+}
+nav{
+    background-color: teal;
+}
+.card{
+    background-color: whitesmoke;
+}
+footer{
+    background-color:lightyellow;
+}
+.text2{
+    text-color: yellow;
+}
